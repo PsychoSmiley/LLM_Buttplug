@@ -24,3 +24,7 @@ This script will act as router between oobabooga/text-generation-webui and intif
 ## Usage
 
 1. If character output `stroke(1.0)` or `stroke(0.0)` it will move the sex toy to position `1.0` or `0.0` and oscillate.
+
+---
+
+<sub>*Unlicense* but credit is appreciated. If you'd like to try it in a different harness, use [MCP-buttplug.py](https://github.com/PsychoSmiley/LLM_Buttplug/).</sub>
