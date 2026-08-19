@@ -27,4 +27,4 @@ This script will act as router between oobabooga/text-generation-webui and intif
 
 ---
 
-<sub>*Unlicense* but credit is appreciated. If you'd like to try it in a different harness, use [MCP-buttplug.py](https://github.com/PsychoSmiley/LLM_Buttplug/).</sub>
+<sub>*Unlicense*, but credits are appreciated. If you'd like to use a different harness, try my [MCP-buttplug.py](https://gist.github.com/PsychoSmiley/6b5bd86ef88dd702be8dcc81204496fc).</sub>
